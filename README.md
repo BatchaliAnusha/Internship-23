@@ -25,4 +25,4 @@ The project aims to analyze the Titanic dataset and provide insights into the da
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/your-repo.git
+   git clone  https://github.com/BatchaliAnusha/Internship-23.git
