@@ -20,11 +20,14 @@ The project aims to analyze the Titanic dataset and provide insights into the da
 - Generates a box plot of the 'Fare' column (if variance is high enough)
 - Displays validation messages based on the variance of the 'Fare' column
 
+ # output screenshot
+   ![output](https://github.com/BatchaliAnusha/Internship-23/assets/124043190/69c2550f-966e-4b47-9dcc-c25331d0e49d)
+
+
 ## Installation
 
 1. Clone the repository:
 
    ```shell
    git clone  https://github.com/BatchaliAnusha/Internship-23.git
-   # output screenshot
-   ![output](https://github.com/BatchaliAnusha/Internship-23/assets/124043190/69c2550f-966e-4b47-9dcc-c25331d0e49d)
+  
