@@ -26,3 +26,5 @@ The project aims to analyze the Titanic dataset and provide insights into the da
 
    ```shell
    git clone  https://github.com/BatchaliAnusha/Internship-23.git
+   # output screenshot
+   ![output](https://github.com/BatchaliAnusha/Internship-23/assets/124043190/69c2550f-966e-4b47-9dcc-c25331d0e49d)
